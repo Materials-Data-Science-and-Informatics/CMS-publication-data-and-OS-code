@@ -1,5 +1,5 @@
 # CMS-publication-data-and-OS-code
-A collection of links to some of our published open data and source code, hosted in the "Computational Materials Science" gitlab repo. There is no data in this github repo!
+A collection of links to some of our published open data and source code, hosted in the "Computational Materials Science" gitlab repo. There is no data in this gitHUB repo; here, there are just a number of links to the gitLAB repo -- an quick and dirty replacement for properly mirroring the remote repos...
 
 The base address of the publication-data repo is https://gitlab.com/computational-materials-science/public/publication-data-and-code
 
