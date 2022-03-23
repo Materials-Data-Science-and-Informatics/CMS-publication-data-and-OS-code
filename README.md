@@ -3,7 +3,7 @@ A collection of links to some of our published open data and source code, hosted
 
 The base address of the publication-data repo is https://gitlab.com/computational-materials-science/public/publication-data-and-code
 
-This is a list of the currently contained publications:
+This is a list of some of the currently publications/data sets::
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2021_Song-et-al__MSMSE__Data-mining-of-dislocation-microstructures
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2020_Hu-et-al__MultiscaleStudyOfTheDynamicFrictionCoefficient
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2019-SciRep__Hu-et-al__Predicting-the-flow-stress
