@@ -8,3 +8,4 @@ This is a list of some of the currently publications/data sets::
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2020_Hu-et-al__MultiscaleStudyOfTheDynamicFrictionCoefficient
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2019-SciRep__Hu-et-al__Predicting-the-flow-stress
 - https://gitlab.com/computational-materials-science/public/publication-data-and-code/2019_MSE-A__Samee-et-al__Dislocation-structures-and-the-role-of-GBs
+- https://gitlab.com/computational-materials-science/public/publication-data-and-code/2022-data-mining-of-in-situ-tem-experiments
